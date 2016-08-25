@@ -9,7 +9,7 @@ email: your-email@domain.com
 description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
 
 # Where can people find your site?
-url: "http://czarcrab.github.io"
+url: "https://czarcrab.github.io"
 baseurl: "/blog2" # the subpath of your site, e.g. /blog
 
 # When developing, set this ^ equal to whatever localhost you're using
