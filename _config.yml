@@ -4,9 +4,9 @@ highlighter: pygments # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 
 # Jekyll Defaults
-title: Artist Theme
-email: your-email@domain.com
-description: A small and simple site I made to test out Jekyll. Watch out! I'm going to make a material design theme next!
+title: Ajay Malhotra
+email: myfirstname@mylastname.ca
+description: A simple
 
 # Where can people find your site?
 url: "https://czarcrab.github.io"
@@ -16,9 +16,9 @@ baseurl: "/blog2" # the subpath of your site, e.g. /blog
 
 # Social Media links
 # Use these to link users to your organization's social media sites
-twitter:
+twitter: https://twitter.com/iamajeya
 facebook:
-google:
+linkedin:
 
 author: Nina Petropoulos
 authorBio: A English major by day, a musician by night, and a web developer because of the summer I was bored - my name's Nina and I hope you enjoy my Hello Portland theme, the second theme I've made with Jekyll.
